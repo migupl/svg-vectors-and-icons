@@ -12,6 +12,12 @@ Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo<
 | ---------------------------------- | ---------------------------------- | -------------------------------- | -------------------------------- |
 | ![TikTok](/icons/bg-white/inverse/social/tiktok.png)       | ![Twitter-X](/icons/bg-white/inverse/social/twitter-x.png) | ![Youtube](/icons/bg-white/inverse/social/youtube.png)   |                                  |
 
+**Contact icons (16x16)**
+
+| ![envelope](/icons/bg-white/inverse/contact/envelope.png) | ![geo-alt](/icons/bg-white/inverse/contact/geo-alt.png)     | ![house](/icons/bg-white/inverse/contact/house.png) |
+| --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- |
+| ![phone](/icons/bg-white/inverse/contact/phone.png)       | ![telephone](/icons/bg-white/inverse/contact/telephone.png) |                                                     |
+
 ## Helpers
 
 You can convert SVG images to PNG using the command line in Linux and Inkscape as following
