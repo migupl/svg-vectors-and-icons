@@ -6,6 +6,12 @@ Vectors and icons by <a href="https://www.svgrepo.com" target="_blank">SVG Repo<
 | ----- | ---- | --- | -- |
 |![heart-like SVG vector](./heart-like/heart-like-svgrepo-com.png)[SVG](https://www.svgrepo.com/svg/280331/heart-like)|![heart-green](./heart-like/heart-green.png)|![heart-yellow](./heart-like/heart-yellow.png)|![heart-red](./heart-like/heart-red.png)|
 
+**Social icons (16x16)**
+
+| ![Facebook](/icons/bg-white/inverse/social/facebook.png) | ![Instagram](/icons/bg-white/inverse/social/instagram.png) | ![LinkedIn](/icons/bg-white/inverse/social/linkedin.png) | ![Mastodon](/icons/bg-white/inverse/social/mastodon.png) |
+| ---------------------------------- | ---------------------------------- | -------------------------------- | -------------------------------- |
+| ![TikTok](/icons/bg-white/inverse/social/tiktok.png)       | ![Twitter-X](/icons/bg-white/inverse/social/twitter-x.png) | ![Youtube](/icons/bg-white/inverse/social/youtube.png)   |                                  |
+
 ## Helpers
 
 You can convert SVG images to PNG using the command line in Linux and Inkscape as following
