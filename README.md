@@ -14,4 +14,9 @@ You can convert SVG images to PNG using the command line in Linux and Inkscape a
 $ inkscape -w 256 -h 256 heart-green.svg -o heart-green.png
 ```
 
+## License
+
+[MIT license](./LICENSE)
+
+
 *Good luck, I hope you enjoy it*.
